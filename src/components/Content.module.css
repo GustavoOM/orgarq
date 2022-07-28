@@ -9,3 +9,11 @@
     align-items: flex-start;
     margin-bottom: 15rem;
 }
+
+@media (max-width: 1040px){
+    .wrapper{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}

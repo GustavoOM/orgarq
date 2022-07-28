@@ -86,3 +86,9 @@
 .name{
     margin-bottom: 1rem;
 }
+
+@media (max-width: 1040px){
+    .sidebar{
+        width: 90%;
+    }
+}

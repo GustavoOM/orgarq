@@ -5,3 +5,9 @@
 .header + .header{
     margin-top: 3rem;
 }
+
+@media (max-width: 1040px){
+    .header{
+        text-align: center;
+    }
+}
