@@ -96,8 +96,8 @@
 
 .github a {
     background: transparent;
-    color: var(--black);
-    border: 2px solid var(--black);
+    color: var(--white);
+    border: 2px solid var(--white);
     border-radius: 8px;
     height: 45px;
     width: 45px;
@@ -109,8 +109,8 @@
 }
 
 .github a:hover{
-    background: var(--black);
-    color: var(--white);
+    background: var(--white);
+    color: var(--black);
 }
 
 .studentsInformations{
@@ -173,5 +173,15 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
+    }
+
+    .download a {
+        background: var(--blue-500);
+        color: var(--white);
+    }
+    
+    .github a {
+        background: var(--white);
+        color: var(--black);
     }
 }
