@@ -1,11 +1,12 @@
 .student a {
-    font-size: 0.60rem;
+    text-align: center;
+    font-size: 0.65rem;
     background: transparent;
     color: var(--blue-500);
     border: 1px solid var(--blue-500);
     border-radius: 8px;
     height: 25px;
-    padding: 0 0.25rem;
+    padding: 0 0.20rem;
     font-weight: bold;
     display: block;
     text-decoration: none;

@@ -175,13 +175,4 @@
         justify-content: center;
     }
 
-    .download a {
-        background: var(--blue-500);
-        color: var(--white);
-    }
-    
-    .github a {
-        background: var(--white);
-        color: var(--black);
-    }
 }
