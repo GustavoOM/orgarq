@@ -22,3 +22,9 @@
     color: var(--white);
 }
 
+
+@media (max-width: 1040px){
+    .student a {
+        height: 2.8rem;
+    }
+}
