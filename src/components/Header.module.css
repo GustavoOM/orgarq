@@ -20,9 +20,9 @@
 
 @media (max-width: 1040px){
     .header{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     .header img{
-        height: 3rem;
+        height: 4rem;
     }
 }
